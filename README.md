@@ -28,3 +28,4 @@ A complete, fully responsive stationery and book store e-commerce template.
 ├── product-*.html    # Individual product detail pages
 └── blog-*.html       # Blog and article pages
 ```
+
